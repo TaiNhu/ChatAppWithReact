@@ -1,4 +1,7 @@
-# ChatAppWithReact
+# Chat App
+# Công nghệ sử dụng:
+- ASP .NET core + SignalR + Entity Framework
+- ReactJS
 # Login page:
 ![image](https://user-images.githubusercontent.com/76104316/230886986-9701e2f8-3e26-4b74-b23f-d107d9177c09.png)
 #Main page:
