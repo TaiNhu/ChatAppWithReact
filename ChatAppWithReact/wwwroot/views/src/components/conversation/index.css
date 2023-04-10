@@ -1,0 +1,100 @@
+#home {
+	height: 100vh;
+	flex: 1 1 80%;	
+	background-color: #303237;
+}
+#home-header {
+	height: 50px;
+	background-color: #313338;
+	border-bottom: 1px solid #2a2b30;
+	padding-inline-start: 10px;
+	display: flex;
+	align-items: center;
+    gap: 10px;
+}
+#home-header > svg {
+    color: #80848e;
+}
+
+#home-body {
+	height: calc(100% - 120px);
+    overflow-y: auto;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	padding: 8px 10px;
+	overflow-y: auto;
+}
+#home-footer {
+	width: calc(100% - 20px);
+	margin-inline: auto;
+	height: 50px;
+	display: flex;
+	align-items: center;
+	background-color: #35373c;
+	border-radius: 10px;
+}
+.chat-holder {
+	flex-grow: 1;
+	height: inherit;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.chat-holder > input {
+	flex-grow: 1;
+	height: 40px;
+	background-color: transparent;
+	outline: none;
+	border: none;
+	font-size: 1.1em;
+	padding-inline-start: 5px;
+	color: #dbdec6;
+}
+.upload-holder {
+	height: inherit;
+	flex-basis: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.upload-holder > label > svg {
+	color: #999da4;
+	transition: all 100ms linear;
+	cursor: pointer;
+}
+.upload-holder:hover > label > svg {
+	color: #b5bac1;
+}
+
+#upload {
+	display: none;
+	height: inherit;
+}
+.send-holder {
+	flex-basis: 50px;
+	height: inherit;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.send-holder > button {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+.send-holder > button > svg {
+    color: #999da4;
+    transition: all 100ms linear;
+}
+
+
+.send-holder > button:hover > svg {
+	color: #b5bac1;
+}
+.styles_scrollable-div__prSCv{
+	height: 100% !important;
+}

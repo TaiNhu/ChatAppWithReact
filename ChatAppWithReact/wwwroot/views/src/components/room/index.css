@@ -1,0 +1,40 @@
+.room {
+	flex: 50px 0 0;
+	border-radius: 10px;
+	display: flex;
+	gap: 10px;
+	box-sizing: content-box;
+	padding: 5px 4px;
+}
+.room:hover {
+	cursor: pointer;
+	background-color: #35373c;
+}
+
+.room.true {
+	background-color: #5865f1;
+}
+
+.avatar-holder {
+	flex-basis: 50px;
+	flex-shrink: 0;
+	flex-grow: 0;
+	height: 50px;
+	border-radius: 50%;
+	background-color: #313338;
+	color: white;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	display: block;
+	line-height: 50px;
+	text-align: center;
+	padding-inline-start: 5px;
+}
+.message {
+	display: flex;
+	align-items: center;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}

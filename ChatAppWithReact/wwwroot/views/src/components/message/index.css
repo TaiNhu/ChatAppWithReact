@@ -1,0 +1,37 @@
+.message-holder {
+    display: flex;
+    gap: 10px;
+    padding: 10px 12px;
+    background-color: transparent;
+    border-radius: 10px;
+    flex-basis: 50px;
+    overflow: visible;
+}
+
+.message-content {
+    overflow: visible;
+    flex-grow: 1;
+    background-color: #2b2d31;
+    border-radius: 10px;
+    padding: 10px 12px;
+}
+
+.message-holder:hover {
+    background-color: #2e3035;
+}
+
+.message-avatar {
+    height: 50px;
+    flex-basis: 50px;
+    flex-shrink: 0;
+    flex-grow: 0;
+    border-radius: 50%;
+    background-color: #1e1f22;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	display: block;
+	line-height: 50px;
+	text-align: center;
+	padding-inline-start: 5px;
+}

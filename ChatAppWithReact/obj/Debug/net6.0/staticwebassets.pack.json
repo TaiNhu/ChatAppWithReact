@@ -1,0 +1,161 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\assets\\avatar-ddad4253.png",
+      "PackagePath": "staticwebassets\\assets\\avatar-ddad4253.png"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\lib\\microsoft-signalr\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft-signalr\\signalr.js"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\lib\\microsoft-signalr\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft-signalr\\signalr.min.js"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\.gitignore",
+      "PackagePath": "staticwebassets\\views\\.gitignore"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\dist\\assets\\avatar-ddad4253.png",
+      "PackagePath": "staticwebassets\\views\\dist\\assets\\avatar-ddad4253.png"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\dist\\assets\\index-4842bf7b.js",
+      "PackagePath": "staticwebassets\\views\\dist\\assets\\index-4842bf7b.js"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\dist\\assets\\index-4f0dbe9a.css",
+      "PackagePath": "staticwebassets\\views\\dist\\assets\\index-4f0dbe9a.css"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\dist\\index.html",
+      "PackagePath": "staticwebassets\\views\\dist\\index.html"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\dist\\vite.svg",
+      "PackagePath": "staticwebassets\\views\\dist\\vite.svg"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\index.html",
+      "PackagePath": "staticwebassets\\views\\index.html"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\package-lock.json",
+      "PackagePath": "staticwebassets\\views\\package-lock.json"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\package.json",
+      "PackagePath": "staticwebassets\\views\\package.json"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\public\\vite.svg",
+      "PackagePath": "staticwebassets\\views\\public\\vite.svg"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\src\\App.css",
+      "PackagePath": "staticwebassets\\views\\src\\App.css"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\src\\App.jsx",
+      "PackagePath": "staticwebassets\\views\\src\\App.jsx"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\src\\api\\instance.js",
+      "PackagePath": "staticwebassets\\views\\src\\api\\instance.js"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\src\\assets\\avatar.png",
+      "PackagePath": "staticwebassets\\views\\src\\assets\\avatar.png"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\src\\auth\\index.jsx",
+      "PackagePath": "staticwebassets\\views\\src\\auth\\index.jsx"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\src\\components\\conversation\\index.css",
+      "PackagePath": "staticwebassets\\views\\src\\components\\conversation\\index.css"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\src\\components\\conversation\\index.jsx",
+      "PackagePath": "staticwebassets\\views\\src\\components\\conversation\\index.jsx"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\src\\components\\header\\index.css",
+      "PackagePath": "staticwebassets\\views\\src\\components\\header\\index.css"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\src\\components\\header\\index.jsx",
+      "PackagePath": "staticwebassets\\views\\src\\components\\header\\index.jsx"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\src\\components\\message\\index.css",
+      "PackagePath": "staticwebassets\\views\\src\\components\\message\\index.css"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\src\\components\\message\\index.jsx",
+      "PackagePath": "staticwebassets\\views\\src\\components\\message\\index.jsx"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\src\\components\\room\\index.css",
+      "PackagePath": "staticwebassets\\views\\src\\components\\room\\index.css"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\src\\components\\room\\index.jsx",
+      "PackagePath": "staticwebassets\\views\\src\\components\\room\\index.jsx"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\src\\connection\\index.js",
+      "PackagePath": "staticwebassets\\views\\src\\connection\\index.js"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\src\\index.css",
+      "PackagePath": "staticwebassets\\views\\src\\index.css"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\src\\main.jsx",
+      "PackagePath": "staticwebassets\\views\\src\\main.jsx"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\src\\pages\\home\\index.css",
+      "PackagePath": "staticwebassets\\views\\src\\pages\\home\\index.css"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\src\\pages\\home\\index.jsx",
+      "PackagePath": "staticwebassets\\views\\src\\pages\\home\\index.jsx"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\src\\pages\\login\\index.css",
+      "PackagePath": "staticwebassets\\views\\src\\pages\\login\\index.css"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\src\\pages\\login\\index.jsx",
+      "PackagePath": "staticwebassets\\views\\src\\pages\\login\\index.jsx"
+    },
+    {
+      "Id": "D:\\hoctap\\tuhoc\\CSharp\\ChatAppWithReact\\ChatAppWithReact\\wwwroot\\views\\vite.config.js",
+      "PackagePath": "staticwebassets\\views\\vite.config.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ChatAppWithReact.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ChatAppWithReact.props",
+      "PackagePath": "build\\ChatAppWithReact.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ChatAppWithReact.props",
+      "PackagePath": "buildMultiTargeting\\ChatAppWithReact.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ChatAppWithReact.props",
+      "PackagePath": "buildTransitive\\ChatAppWithReact.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
